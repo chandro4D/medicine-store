@@ -1,18 +1,21 @@
-# Project Name: Medicine-Store
+# Project Name: MediCare
 
 ## 📌 Short Project Description
-This project is a modern web application built using Next.js. It is designed to provide a fast, scalable, and responsive user experience with a clean architecture and optimized performance. The project follows best practices for maintainability and developer experience.
+MediCare is a modern medicine e-commerce web application built with Next.js. It is designed to provide a seamless online platform for purchasing medicines, managing health products, and improving user access to healthcare essentials. The system focuses on speed, security, and usability with a clean and scalable architecture for an efficient shopping experience.
 
 ---
 
 ## 🚀 Project Key Features
-- Built with Next.js for server-side rendering and improved performance
-- Component-based and reusable architecture
-- Secure environment variable handling using `.env.local`
+- Built with Next.js for fast performance and server-side rendering
+- User-friendly e-commerce interface for browsing and purchasing medicines
+- Product listing with categories and detailed product pages
+- Shopping cart and checkout functionality
+- Secure authentication and user account management
+- Order management and purchase history tracking
 - Responsive design for mobile, tablet, and desktop
-- API integration support with scalable folder structure
-- SEO-friendly routing and metadata support
-- Fast development with hot reload
+- API-based architecture for scalability and performance
+- Environment variable support using `.env.local`
+
 
 ---
 
